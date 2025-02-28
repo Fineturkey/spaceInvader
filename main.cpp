@@ -1,6 +1,7 @@
 #include <raylib.h>
 #include "game.h"
 
+
 int main() {
     int windowWidth = 750;
     int windowHeight = 750;
@@ -24,4 +25,6 @@ int main() {
 
     CloseWindow(); 
 }
+
+//comment
 
